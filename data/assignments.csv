@@ -1,0 +1,19 @@
+assignment_id,course_id,assignment_name,max_points
+1,101,Algebra I - Quiz 1,100
+2,101,Algebra I - Quiz 2,100
+3,101,Algebra I - Final,200
+4,102,Geometry - Quiz 1,100
+5,102,Geometry - Project,100
+6,102,Geometry - Final,200
+7,201,Biology - Lab 1,50
+8,201,Biology - Quiz 1,100
+9,201,Biology - Final,200
+10,202,Chemistry - Lab 1,50
+11,202,Chemistry - Quiz 1,100
+12,202,Chemistry - Final,200
+13,301,US History - Essay,100
+14,301,US History - Quiz 1,100
+15,301,US History - Final,200
+16,401,Spanish I - Oral Exam,50
+17,401,Spanish I - Quiz 1,100
+18,401,Spanish I - Final,200
